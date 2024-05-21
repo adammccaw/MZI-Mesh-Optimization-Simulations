@@ -11,5 +11,5 @@ This code was used for the results displayed in Adam McCaw's Master's Thesis:
 "Imperfect Quantum Photonic Integrated Circuits With Quantum Dot Phase Shifters"
 Link: https://qspace.library.queensu.ca/items/471e4d9b-4484-46c5-a6f7-1c2d29cb5bb1
 
-It was also used for the results of the paper; "Reconfigurable quantum photonic circuits based on quantum dots" - https://arxiv.org/abs/2312.10521
+It was also used for the results of the paper; "Reconfigurable quantum photonic circuits based on quantum dots", published in Nanophotonics - (https://www.degruyter.com/document/doi/10.1515/nanoph-2024-0044/html)
 
